@@ -2,4 +2,4 @@
 jsDeliver Cdn
 test
 
-https://cdn.jsdelivr.net/gh/Nyaplus-Beta/cdn@3.5/
+# https://cdn.jsdelivr.net/gh/Nyaplus-Beta/stcdn@提交版本号/文件夹/文件名
